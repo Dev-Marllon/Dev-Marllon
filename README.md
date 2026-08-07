@@ -64,6 +64,6 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
 
 ## 📫 Contact
 
-📧 Email: seuemail@email.com
+📧 Email: Marllon.dev26@outlook.com
 
 💼 LinkedIn: (vamos colocar depois)
