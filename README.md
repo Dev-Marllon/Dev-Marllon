@@ -72,8 +72,6 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img
     height="180em"
