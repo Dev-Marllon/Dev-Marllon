@@ -73,7 +73,7 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Marllon&show_icons=true&theme=transparent&title_color=ff3333&icon_color=ff3333&text_color=ffffff&border_color=ff3333"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Marllon&layout=compact&theme=transparent&title_color=ff3333&text_color=ffffff&border_color=ff3333"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Marllon&show_icons=true&theme=transparent&title_color=ff3333&icon_color=ff3333&text_color=ffffff&border_color=ff3333&cache_seconds=1800"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Marllon&layout=compact&theme=transparent&title_color=ff3333&text_color=ffffff&border_color=ff3333&cache_seconds=1800"/>
 </p>
