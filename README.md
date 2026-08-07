@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Marllon Alves</h1>
 
-<h3 align="center">
-Java Back-end Developer • Building the Future 🚀
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3500&pause=1000&color=FF2D2D&center=true&vCenter=true&width=700&lines=Java+Back-end+Developer;Spring+Boot+Developer;Always+Learning+New+Technologies;Building+the+Future+🚀" alt="Typing Animation" />
+</p>
 
 <p align="center">
 Passionate about technology, always learning and building solutions with Java.
