@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="banner.png" alt="Marllon Alves Banner" width="100%">
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Marllon Alves</h1>
 
 <h3 align="center">
-☕ Java Backend Developer
+Java Back-end Developer • Building the Future 🚀
 </h3>
 
 <p align="center">
-Building the Future. 🚀
+Passionate about technology, always learning and building solutions with Java.
+</p>
 
 ---
 
@@ -36,4 +37,33 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
 - 🗄️ Databases
 - 🏦 Financial Technology (FinTech)
 - 🚀 Software Engineering
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=spring" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=idea" height="45"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+
 </p>
+
+---
+
+## 📫 Contact
+
+📧 Email: seuemail@email.com
+
+💼 LinkedIn: (vamos colocar depois)
