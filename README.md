@@ -77,11 +77,6 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Dev-Marllon&theme=dark&ring=ff3333&fire=ff3333&currStreakLabel=ff3333&background=00000000&border=ff3333"
-    alt="GitHub Streak"
-  />
 </p>
 
 <p align="center">
