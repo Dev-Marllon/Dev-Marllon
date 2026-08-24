@@ -41,7 +41,7 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java">
   <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin">
-  <img src="https://skillicons.dev/icons?i=Android Studio" height="45" alt="Android Studio">
+  <img src="https://skillicons.dev/icons?i=android studio" height="45" alt="Android Studio">
   <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot">
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL">
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git">
