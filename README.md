@@ -18,7 +18,7 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
 
 🎓 Currently pursuing a degree in Analysis and Systems Development.
 
-🌱 Currently learning Java, Spring Boot, SQL and Git.
+🌱 Currently learning Java, Kotlin, Android, Spring Boot, MySQL Git and GitHub.
 
 🚀 Building projects to improve my skills every day.
 
