@@ -60,32 +60,6 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Marllon&show_icons=true&theme=github_dark&hide_border=true&icon_color=ff3333&title_color=ff3333&text_color=ffffff"
-    alt="GitHub Stats"
-  />
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Marllon&layout=compact&theme=github_dark&hide_border=true&title_color=ff3333&text_color=ffffff"
-    alt="Top Languages"
-  />
-</p>
-
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Marllon&theme=github_dark"
-    alt="GitHub Profile Details"
-  />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
