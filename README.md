@@ -28,11 +28,11 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
 
 ## 💡 Interests
 
-- ☕ Java Development
+- ☕ Java Back-end Development
 - 🌱 Spring Boot
 - 🗄️ Databases
-- 🏦 Financial Technology (FinTech)
-- 🚀 Software Engineering
+- 🏦 FinTech
+- 🔧 Software Engineering
 
 ---
 
