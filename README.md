@@ -47,7 +47,6 @@ Hi! I'm **Marllon Alves** from Brazil 🇧🇷
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub">
   <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA">
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code">
 </p>
 
 ---
